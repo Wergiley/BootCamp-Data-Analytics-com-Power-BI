@@ -1,13 +1,13 @@
 # Data-Analytics-com-Power-BI
-Dados do Bootcamp: Data-Analytics-com-Power-BI
-Período: 24/06 a 07/08/24
-Carga Horária: 82H
-Cursos: 28
-Mentorias: 6
-Desafios de Projetos: 9
-Desafios de Código: 4
+• Dados do Bootcamp: Data Analytics com Power BI<br/>
+• Período: 24/06 a 07/08/24 <br/>
+• Carga Horária: 82H<br/>
+• Cursos: 28<br/>
+• Mentorias: 6<br/>
+• Desafios de Projetos: 9<br/>
+• Desafios de Código: 4
 
-Descrição:
+Descrição:<br/>
 Dados são o petróleo da tecnologia!
 Profissionais capazes de transformar grandes massas de dados em informações relevantes que ajudam na tomada de decisões nas empresas são muito valorizados e bem pagos por isso.
 
